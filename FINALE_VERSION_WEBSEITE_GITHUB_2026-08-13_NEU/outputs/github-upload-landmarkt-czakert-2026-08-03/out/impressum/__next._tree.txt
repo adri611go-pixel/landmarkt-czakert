@@ -1,4 +1,0 @@
-:HL["/_next/static/css/15ab46a9984eeadc.css","style"]
-:HL["/logo-landmarkt.png","image"]
-:HL["/hero-impressum.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"impressum","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"wVSSOLBLgWE7kuZKMH1re"}
